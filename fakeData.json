@@ -1,0 +1,338 @@
+
+  
+  {"home":
+  [
+    {
+      "id": 1,
+      "group_id": "1",
+          "group_name": "DemoGroup",
+      "favorite": false,
+      "title": "Biểu đồ chứng khoán",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 36,
+          "favorite": true,
+          "title": "Obs"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 38,
+          "favorite": false,
+          "title": "Obs1"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 19,
+          "favorite": true,
+          "title": "Obs2"
+        }
+      ]
+      },
+      {
+        "id": 2,
+      "group_id": "2",
+          "group_name": "TranHieuGroup",
+      "favorite": true,
+      "title": "Day Biểu đồ chứng khoán đêm",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 24,
+          "favorite": false,
+          "title": "Obs3"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 23,
+          "favorite": true,
+          "title": "Obs4"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 54,
+          "favorite": true,
+          "title": "Obs5"
+        }
+      ]
+      },
+      {
+        "id": 3,
+      "group_id": "3",
+          "group_name": "TranQuangGroup",
+      "favorite": false,
+      "title": "Anh Biểu đồ xương cá",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 16,
+          "favorite": true,
+          "title": "Obs6"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 45,
+          "favorite": true,
+          "title": "Obs7"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "wewewe",
+          "workbook_watch_count": 12,
+          "favorite": false,
+          "title": "Obs8"
+        }
+      ]
+      },
+      {
+        "id": 4,
+      "group_id": "4",
+          "group_name": "TranThaoGroup",
+      "favorite": true,
+      "title": "hình ảnh biểu tượng",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "hjm",
+          "workbook_watch_count": 73,
+          "favorite": false,
+          "title": "kbs"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "ghnngh",
+          "workbook_watch_count": 86,
+          "favorite": true,
+          "title": "Obs"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "vfdv",
+          "workbook_watch_count": 35,
+          "favorite": true,
+          "title": "kbs2"
+        }
+      ]
+      },
+      {
+        "id": 5,
+      "group_id": "5",
+          "group_name": "LinhChiGroup",
+      "favorite": true,
+      "title": "Hiển thị tăng trưởng chuỗi hàng",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "dcs",
+          "workbook_watch_count": 27,
+          "favorite": false,
+          "title": "kbs1"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "zxczx",
+          "workbook_watch_count": 14,
+          "favorite": true,
+          "title": "kbs5"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "weerfewewe",
+          "workbook_watch_count": 27,
+          "favorite": true,
+          "title": "kbs4"
+        }
+      ]
+      },
+      {
+        "id": 6,
+      "group_id": "6",
+          "group_name": "XuanHaiGroup",
+      "favorite": true,
+      "title": "Số người dùng lâu đời trên 10 năm",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "gjgh",
+          "workbook_watch_count": 25,
+          "favorite": false,
+          "title": "kbs7"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "kjljk",
+          "workbook_watch_count": 54,
+          "favorite": true,
+          "title": "kbs8"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "werwer",
+          "workbook_watch_count": 43,
+          "favorite": true,
+          "title": "kbs9"
+        }
+      ]
+      },
+      {
+        "id": 7,
+      "group_id": "7",
+          "group_name": "ChienThangGroup",
+      "favorite": true,
+      "title": "số lượng mua Sim",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "sdfsdf",
+          "workbook_watch_count": 32,
+          "favorite": false,
+          "title": "rews"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "bvxcv",
+          "workbook_watch_count": 78,
+          "favorite": true,
+          "title": "rews1"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "qaz",
+          "workbook_watch_count": 89,
+          "favorite": true,
+          "title": "rews2"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group_id": "8",
+          "group_name": "CoLenGroup",
+      "favorite": true,
+      "title": "Tăng trưởng đại dịch",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "uip",
+          "workbook_watch_count": 8,
+          "favorite": false,
+          "title": "rews3"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "grtg",
+          "workbook_watch_count": 3,
+          "favorite": true,
+          "title": "rews4"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "csxcs",
+          "workbook_watch_count": 45,
+          "favorite": true,
+          "title": "rews5"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group_id": "9",
+          "group_name": "BatBaiGroup",
+      "favorite": true,
+      "title": "tăng trưởng nhà đầu tư",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "tyn",
+          "workbook_watch_count": 7,
+          "favorite": false,
+          "title": "rews6"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "ghj",
+          "workbook_watch_count": 67,
+          "favorite": true,
+          "title": "rews7"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "jkl",
+          "workbook_watch_count": 23,
+          "favorite": true,
+          "title": "rews8"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group_id": "10",
+          "group_name": "ThanhCongGroup",
+      "favorite": true,
+      "title": "Số lượng yêu thích",
+      "workbooks": [
+        {
+          "id": 1,
+          "workbook_id": 1,
+          "workbook_name": "asd",
+          "workbook_watch_count": 12,
+          "favorite": false,
+          "title": "rews9"
+        },
+        {
+          "id": 2,
+          "workbook_id": 2,
+          "workbook_name": "cvb",
+          "workbook_watch_count": 24,
+          "favorite": true,
+          "title": "global"
+        },
+        {
+          "id": 3,
+          "workbook_id": 3,
+          "workbook_name": "wesdfwewe",
+          "workbook_watch_count": 45,
+          "favorite": true,
+          "title": "global1"
+        }
+      ]
+    }
+  
+  ]
+  }
+  
